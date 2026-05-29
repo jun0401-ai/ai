@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot",
+  "description": "An interactive AI Chatbot powered by Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
